@@ -1403,5 +1403,5 @@ asset index.html 484 bytes [emitted]
 asset main.3519cb58d794d662b0d4.css 71 bytes [emitted] [immutable] (name: main)
 ```
 
-You can the lodash module was bundled into a separate js file, which makes our main JavaScript file size become much smaller.
+You can see, the lodash module was bundled into a separate js file, which makes our main JavaScript file size become much smaller.
 
